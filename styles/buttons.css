@@ -50,8 +50,8 @@
   &::before {
     content: "";
     position: absolute;
-    border-radius: inherit;
-    inset: 1.5px;
+    border-radius: .4rem;
+    inset: 2px;
     background-color: var(--bg-color);
   }
 
